@@ -134,11 +134,11 @@ A free, customizable Excel tracker that:
 
 ### Instructions - Weekly Tracker
 ![Instructions Weekly Tracker](Images\Instructions_Top.png)
-*Screenshot of top portion of Instructions for using WEEKLY Standing Tracker*
+*Screenshot of top portion of Instructions for using WEEKLY Standing Tracker...*
 
 ### Instructions - Master Tracker
 ![Instructions Master Tracker](Images\How_to_Use_Master_Tracker.png)
-*Screenshot of top portion of Instructions for using MASTER Standing Tracker*
+*Screenshot of top portion of Instructions for using MASTER Standing Tracker...*
 
 ### Time Entry Tips
 - **Windows:** Press `Ctrl + Shift + ;` to insert current time
