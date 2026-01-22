@@ -84,23 +84,36 @@ A free, customizable Excel tracker that:
 ## 📸 Screenshots
 
 ### Standing Tracker - Weekly View
-![Standing Tracker Weekly View](Images/no_data/standing_tracker_empty1.png)
-*Shows the main tracking interface with time slots, automatic calculations, and color coding*
+<p align="center">
+  <img src="Images/no_data/standing_tracker_empty1.png" alt="Standing Tracker Weekly View" width="800">
+  <br>
+  <em>Shows the main tracking interface with time slots, automatic calculations, and color coding</em>
+</p>
 
 ### Master Tracking - Quarterly View
-![Master Tracking Quarterly View](Images/no_data/master_tracker_empty2.png)
-*Demonstrates long-term tracking with Q1-Q4 organization and yearly summaries*
+<p align="center">
+  <img src="Images/no_data/master_tracker_empty2.png" alt="Master Tracking Quarterly View" width="800">
+  <br>
+  <em>Demonstrates long-term tracking with Q1-Q4 organization and yearly summaries</em>
+</p>
 
 ### Color-Coded Progress
-![Color-Coded Daily Totals](Images/with_data/DEMO_standing_tracking_weeks.png)
-![Color-Coded Daily Totals](Images/with_data/DEMO_standing_tracking_weeks-total2.png)
-*Highlights the visual feedback system for daily goals*
+<p align="center">
+  <img src="Images/with_data/DEMO_standing_tracking_weeks.png" alt="Color-Coded Daily Totals - Week View" width="800">
+  <br>
+  <img src="Images/with_data/DEMO_standing_tracking_weeks-total2.png" alt="Color-Coded Daily Totals - Close Up" width="800">
+  <br>
+  <em>Highlights the visual feedback system for daily goals</em>
+</p>
 
 ### Session Warning System
-![Session Warning Over 60 Minutes](Images/with_data/DEMO_master_tracking_weeks.png)
-
-![Session Warning Over 60 Minutes](Images/with_data/DEMO_master_tracking_totals2.png)
-*Shows the orange warning for sessions exceeding 60 minutes*
+<p align="center">
+  <img src="Images/with_data/DEMO_master_tracking_weeks.png" alt="Session Warning - Week View" width="800">
+  <br>
+  <img src="Images/with_data/DEMO_master_tracking_totals2.png" alt="Session Warning - Totals View" width="800">
+  <br>
+  <em>Shows the orange warning for sessions exceeding 60 minutes</em>
+</p>
 
 ## 📥 Installation
 
@@ -133,12 +146,18 @@ A free, customizable Excel tracker that:
 5. **Repeat:** Update the week starting date and continue
 
 ### Instructions - Weekly Tracker
-![Instructions Weekly Tracker](Images/with_data/Instructions_Top.png)
-*Screenshot of top portion of Instructions for using WEEKLY Standing Tracker*
+<p align="center">
+  <img src="Images/with_data/Instructions_Top.png" alt="Instructions Weekly Tracker" width="800">
+  <br>
+  <em>Screenshot of top portion of Instructions for using WEEKLY Standing Tracker</em>
+</p>
 
 ### Instructions - Master Tracker
-![Instructions Master Tracker](Images/with_data/How_to_Use_Master_Tracker.png)
-*Screenshot of top portion of Instructions for using MASTER Standing Tracker*
+<p align="center">
+  <img src="Images/with_data/How_to_Use_Master_Tracker.png" alt="Instructions Master Tracker" width="800">
+  <br>
+  <em>Screenshot of top portion of Instructions for using MASTER Standing Tracker</em>
+</p>
 
 ### Time Entry Tips
 - **Windows:** Press `Ctrl + Shift + ;` to insert current time
