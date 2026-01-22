@@ -97,22 +97,22 @@ A free, customizable Excel tracker that:
   <em>Demonstrates long-term tracking with Q1-Q4 organization and yearly summaries</em>
 </p>
 
-### Color-Coded Progress
+### Color-Coded Progress & Session Warnings
 <p align="center">
-  <img src="Images/with_data/DEMO_standing_tracking_weeks.png" alt="Color-Coded Daily Totals - Week View" width="800">
+  <img src="Images/with_data/DEMO_standing_tracking_weeks.png" alt="Weekly Tracker with Color Coding" width="800">
   <br>
-  <img src="Images/with_data/DEMO_standing_tracking_weeks-total2.png" alt="Color-Coded Daily Totals - Close Up" width="800">
+  <img src="Images/with_data/DEMO_standing_tracking_weeks-total2.png" alt="Daily Totals Color Coding" width="800">
   <br>
-  <em>Highlights the visual feedback system for daily goals</em>
+  <em>Highlights the visual feedback system with color-coded daily goals (green/yellow/red) and orange warnings for sessions exceeding 60 minutes</em>
 </p>
 
-### Session Warning System
+### Master Tracking with Sample Data
 <p align="center">
-  <img src="Images/with_data/DEMO_master_tracking_weeks.png" alt="Session Warning - Week View" width="800">
+  <img src="Images/with_data/DEMO_master_tracking_weeks.png" alt="Master Tracking Quarterly View with Data" width="800">
   <br>
-  <img src="Images/with_data/DEMO_master_tracking_totals2.png" alt="Session Warning - Totals View" width="800">
+  <img src="Images/with_data/DEMO_master_tracking_totals2.png" alt="Master Tracking - Totals View" width="800">
   <br>
-  <em>Shows the orange warning for sessions exceeding 60 minutes</em>
+  <em>Demonstrates year-long quarterly tracking with Q1-Q4 organization, automatic calculations, and yearly summaries</em>
 </p>
 
 ## 📥 Installation
