@@ -16,6 +16,7 @@ A comprehensive Excel-based tool to monitor and improve your standing vs. sittin
 - [Customization](#-customization)
 - [Contributing](#-contributing)
 - [License](#-license)
+- [Development Notes](#-development-notes)
 - [Author](#-author)
 
 ## 🎯 The Problem
@@ -215,13 +216,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **TL;DR:** Free to use, modify, and distribute. Attribution appreciated but not required.
 
+## 🤖 Development Notes
+
+This project was developed with AI assistance:
+- **Claude (Anthropic)** - Excel formula development, spreadsheet architecture, and documentation
+- **Gemini (Google)** - Code review and feature recommendations
+
+The core concept, problem identification, and design decisions were human-driven. AI tools were used to accelerate implementation and ensure best practices.
+
 ## 👤 Author
 
-**John [Your Last Name]**
+**Carl Lochstampfor**
 - 🎓 Student at Old Dominion University (ODU)
-- 💼 [LinkedIn Profile](#) (https://www.linkedin.com/in/carl-lochstampfor-jr-08b311223/)
-- 🌐 [ODU Portfolio](#) (https://sites.wp.odu.edu/locky/)
+- 💼 **LinkedIn:** [Carl Lochstampfor, Jr.](https://www.linkedin.com/in/carl-lochstampfor-jr-08b311223/)
+- 🌐 **ODU ePortfolio:** [University Academic Portfolio](https://sites.wp.odu.edu/locky/)
 
+*Built with assistance from Claude (Anthropic) for development and Gemini (Google) for review.*
 ---
 
 ## 🌟 Show Your Support
