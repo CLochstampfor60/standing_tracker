@@ -84,22 +84,22 @@ A free, customizable Excel tracker that:
 ## 📸 Screenshots
 
 ### Standing Tracker - Weekly View
-![Standing Tracker Weekly View](Images\no_data\standing_tracker_empty1.png)
+![Standing Tracker Weekly View](Images/no_data/standing_tracker_empty1.png)
 *Shows the main tracking interface with time slots, automatic calculations, and color coding*
 
 ### Master Tracking - Quarterly View
-![Master Tracking Quarterly View](Images\no_data\master_tracker_empty2.png)
+![Master Tracking Quarterly View](Images/no_data/master_tracker_empty2.png)
 *Demonstrates long-term tracking with Q1-Q4 organization and yearly summaries*
 
 ### Color-Coded Progress
-![Color-Coded Daily Totals](Images\with_data\DEMO_standing_tracking_weeks.png)
-![Color-Coded Daily Totals](Images\with_data\DEMO_standing_tracking_weeks-total2.png)
+![Color-Coded Daily Totals](Images/with_data/DEMO_standing_tracking_weeks.png)
+![Color-Coded Daily Totals](Images/with_data/DEMO_standing_tracking_weeks-total2.png)
 *Highlights the visual feedback system for daily goals*
 
 ### Session Warning System
-![Session Warning Over 60 Minutes](Images\with_data\DEMO_master_tracking_weeks.png)
+![Session Warning Over 60 Minutes](Images/with_data/DEMO_master_tracking_weeks.png)
 
-![Session Warning Over 60 Minutes](Images\with_data\DEMO_master_tracking_totals2.png)
+![Session Warning Over 60 Minutes](Images/with_data/DEMO_master_tracking_totals2.png)
 *Shows the orange warning for sessions exceeding 60 minutes*
 
 ## 📥 Installation
@@ -132,10 +132,10 @@ A free, customizable Excel tracker that:
 4. **Transfer to Master:** At week's end, manually copy summary to Master Tracking
 5. **Repeat:** Update the week starting date and continue
 
-![Weekly Standing Tracker Instructions](Images\Instructions_Top.png)
+![Weekly Standing Tracker Instructions](Images/Instructions_Top.png)
 *Screenshot of top portion of Instructions for using WEEKLY Standing Tracker*
 
-![Master Standing Tracker Instructions](Images\How_to_Use_Master_Tracker.png)
+![Master Standing Tracker Instructions](Images/How_to_Use_Master_Tracker.png)
 *Screenshot of top portion of Instructions for using MASTER Standing Tracker*
 
 ### Time Entry Tips
