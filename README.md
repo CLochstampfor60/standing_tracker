@@ -132,10 +132,12 @@ A free, customizable Excel tracker that:
 4. **Transfer to Master:** At week's end, manually copy summary to Master Tracking
 5. **Repeat:** Update the week starting date and continue
 
-![Weekly Standing Tracker Instructions](Images/Instructions_Top.png)
+### Instructions - Weekly Tracker
+![Instructions Weekly Tracker](Images/with_data/Instructions_Top.png)
 *Screenshot of top portion of Instructions for using WEEKLY Standing Tracker*
 
-![Master Standing Tracker Instructions](Images/How_to_Use_Master_Tracker.png)
+### Instructions - Master Tracker
+![Instructions Master Tracker](Images/with_data/How_to_Use_Master_Tracker.png)
 *Screenshot of top portion of Instructions for using MASTER Standing Tracker*
 
 ### Time Entry Tips
