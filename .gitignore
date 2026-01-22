@@ -1,3 +1,10 @@
+# User-specific folders
+purgatory/*
+.vscode/
+.DS_Store
+Thumbs.db
+~$*.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
