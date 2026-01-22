@@ -133,11 +133,11 @@ A free, customizable Excel tracker that:
 5. **Repeat:** Update the week starting date and continue
 
 ### Instructions - Weekly Tracker
-![Instructions Weekly Tracker](Images/with_data/Instructions_Top.png)
+![Instructions Weekly Tracker](Images\Instructions_Top.png)
 *Screenshot of top portion of Instructions for using WEEKLY Standing Tracker*
 
 ### Instructions - Master Tracker
-![Instructions Master Tracker](Images/with_data/How_to_Use_Master_Tracker.png)
+![Instructions Master Tracker](Images\How_to_Use_Master_Tracker.png)
 *Screenshot of top portion of Instructions for using MASTER Standing Tracker*
 
 ### Time Entry Tips
